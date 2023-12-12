@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+  }
+  
+  .header {
+    background-color: #F3F3F3;
+    display: flex;
+    align-items: baseline;
+    padding: .5rem;
+    gap: 1rem;
+  }
+  
