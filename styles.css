@@ -21,3 +21,10 @@
   display: none;
 }
 
+ul.dropdown-menu li:hover {
+  background: rgb(47, 46, 46);
+}
+
+.visible {
+  display: block;
+}
